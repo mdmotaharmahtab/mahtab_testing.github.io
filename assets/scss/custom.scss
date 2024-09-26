@@ -1,17 +1,30 @@
-/* Target only the title within the education section */
+// .education-section .section-heading h1 {
+//     position: absolute;
+//     transform: rotate(-90deg); /* Rotate the title to be vertical */
+//     transform-origin: left top; /* Set the origin for rotation */
+//     left: -200px; /* Adjust this value to position it correctly on the blue bar */
+//     top: 50px; /* Adjust this value to align it vertically */
+//     color: #1976d2; /* Optional: Change the text color to match the blue bar */
+//     font-size: 1.5rem; /* Adjust the size as needed */
+//     white-space: nowrap; /* Prevent the title from wrapping */
+//     margin: 0;
+// }
+/* Ensure the parent container has positioning */
 .education-section {
-    position: relative; /* Ensure the parent container has positioning */
+    position: relative; 
 }
 
+/* Target only the title within the education section */
 .education-section .section-heading h1 {
     position: absolute;
     transform: rotate(-90deg); /* Rotate the title to be vertical */
-    transform-origin: left top; /* Set the origin for rotation */
-    left: -200px; /* Adjust this value to set the title on the left side */
-    top: 50%; /* Center the title vertically within the container */
+    left: -200px; /* Adjust this value to place the title on the left */
+    top: 50%; /* Center the title vertically */
     transform: translateY(-50%) rotate(-90deg); /* Adjust for perfect centering */
     color: #1976d2; /* Optional: Change the text color to match the blue bar */
     font-size: 1.5rem; /* Adjust the size as needed */
     white-space: nowrap; /* Prevent the title from wrapping */
     margin: 0;
+    display: inline-block;
+    line-height: normal;
 }
