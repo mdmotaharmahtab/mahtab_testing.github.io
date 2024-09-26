@@ -3,6 +3,8 @@
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: about
 
+menus: main
+
 # Activate this widget? true/false
 active: true
 
