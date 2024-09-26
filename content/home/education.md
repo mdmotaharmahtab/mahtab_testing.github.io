@@ -49,5 +49,5 @@ design:
   columns: '1'
 
 advanced:
-  css_class: "home-section header h2"
+  css_class: "section-heading h1"
 ---
