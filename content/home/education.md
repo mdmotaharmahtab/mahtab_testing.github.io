@@ -3,6 +3,8 @@
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
 
+menus: main
+
 # This file represents a page section.
 headless: true
 
