@@ -18,16 +18,7 @@
 .education-section .section-heading h1 {
     position: absolute;
     transform: rotate(-90deg); /* Rotate the title to be vertical */
-    left: -200px; /* Adjust this value to place the title on the left */
+    left: -300px; /* Adjust this value to place the title on the left */
     top: 300px; /* Center the title vertically */
-    transform: translateY(-50%) rotate(-90deg); /* Adjust for perfect centering */
-    color: #ffffff; /* Optional: Change the text color to match the blue bar */
-    font-size: 2.5rem; /* Adjust the size as needed */
-    white-space: nowrap; /* Prevent the title from wrapping */
-    margin: 0;
-    display: inline-block;
-    line-height: normal;
-    height: 0; /* Reset height to avoid interference */
-    padding: 0; /* Reset padding */
-    pointer-events: none; /* Prevent it from affecting layout */
+    transform: translateY(-50%); /* Adjust for perfect centering */
 }
