@@ -1,5 +1,5 @@
 /* Position the Education title */
-.section-heading-education {
+#education .section-heading h1 {
     margin: 0 0 10px;
     position: absolute;
     /* Rotate the title to be vertical */
@@ -16,4 +16,3 @@
     white-space: nowrap;
     /* Prevent the title from wrapping */
 }
-  
