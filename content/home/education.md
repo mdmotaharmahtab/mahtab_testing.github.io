@@ -47,4 +47,7 @@ experience:
 
 design:
   columns: '1'
+
+advanced:
+  css_class: "home-section header h2"
 ---

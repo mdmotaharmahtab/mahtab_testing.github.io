@@ -106,7 +106,3 @@ extensions:
   academicons:
     enable: false
 
-params:
-  assets:
-    customCSS:
-      - css/custom.css
