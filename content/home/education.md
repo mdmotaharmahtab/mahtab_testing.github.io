@@ -49,5 +49,5 @@ design:
   columns: '1'
 
 advanced:
-  css_class: "section-heading h1"
+  css_class: "section-heading-education"
 ---
