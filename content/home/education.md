@@ -49,5 +49,5 @@ design:
   columns: '1'
 
 advanced:
-  css_class: "education"
+  css_class: "education-section"
 ---

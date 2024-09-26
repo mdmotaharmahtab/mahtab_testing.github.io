@@ -1,18 +1,30 @@
-/* Position the Education title */
-#education .section-heading h1 {
-    margin: 0 0 10px;
+// /* Position the Education title */
+// #education .section-heading h1 {
+//     margin: 0 0 10px;
+//     position: absolute;
+//     /* Rotate the title to be vertical */
+//     transform-origin: left top;
+//     /* Set the origin for rotation */
+//     left: -200px;
+//     /* Adjust this value based on your preferred position */
+//     top: 250px;
+//     /* Adjust this value to align the title vertically */
+//     color: #1976d2;
+//     /* Optional: Change the text color to match the blue bar */
+//     font-size: 1.5rem;
+//     /* Adjust the size as needed */
+//     white-space: nowrap;
+//     /* Prevent the title from wrapping */
+// }
+/* Target only the title within the education section */
+.education-section .section-heading h1 {
     position: absolute;
-    /* Rotate the title to be vertical */
-    transform-origin: left top;
-    /* Set the origin for rotation */
-    left: -200px;
-    /* Adjust this value based on your preferred position */
-    top: 250px;
-    /* Adjust this value to align the title vertically */
-    color: #1976d2;
-    /* Optional: Change the text color to match the blue bar */
-    font-size: 1.5rem;
-    /* Adjust the size as needed */
-    white-space: nowrap;
-    /* Prevent the title from wrapping */
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    transform-origin: left top; /* Set the origin for rotation */
+    left: -200px; /* Adjust this value to position it correctly on the blue bar */
+    top: 50px; /* Adjust this value to align it vertically */
+    color: #1976d2; /* Optional: Change the text color to match the blue bar */
+    font-size: 1.5rem; /* Adjust the size as needed */
+    white-space: nowrap; /* Prevent the title from wrapping */
+    margin: 0;
 }
