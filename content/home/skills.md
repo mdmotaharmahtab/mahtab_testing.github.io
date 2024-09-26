@@ -29,4 +29,9 @@ feature:
     icon_pack: emoji
     name: Emojiness
     description: 100%
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['50px', '0', '50px', '0']
 ---
