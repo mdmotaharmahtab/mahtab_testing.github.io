@@ -27,4 +27,7 @@
     margin: 0;
     display: inline-block;
     line-height: normal;
+    height: 0; /* Reset height to avoid interference */
+    padding: 0; /* Reset padding */
+    pointer-events: none; /* Prevent it from affecting layout */
 }
