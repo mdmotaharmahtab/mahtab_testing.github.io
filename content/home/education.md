@@ -47,4 +47,6 @@ experience:
 
 design:
   columns: '1'
+  title:
+    style: 'text-align: left;'
 ---
