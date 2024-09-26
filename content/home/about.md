@@ -3,6 +3,8 @@
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: about
 
+id: about
+
 # Activate this widget? true/false
 active: true
 
