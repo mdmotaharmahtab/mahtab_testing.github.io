@@ -1,0 +1,7 @@
+/* Align the title to the left */
+.home-section header h1,
+.home-section header h2,
+.home-section header h3,
+.block-title {
+  text-align: left !important;
+}

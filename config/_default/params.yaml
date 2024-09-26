@@ -105,3 +105,8 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+params:
+  assets:
+    customCSS:
+      - css/custom.css
