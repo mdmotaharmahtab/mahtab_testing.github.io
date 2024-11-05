@@ -53,7 +53,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: qxri_logo
+    company_logo: qcri_logo
     location: Remote
     date_start: '2021-09-01'
     date_end: '2021-12-31'
