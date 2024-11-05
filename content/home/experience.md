@@ -50,9 +50,9 @@ experience:
         * Used Qdrant vector DB for fast semantic searching, Dask to analyze and query big dataframes, DVC for dataset versioning and MLflow for model, artifact and experiment versioning.
         * Created pipeline for Natural Language generation (NLG) in Bangla for both encoder models like BERT and auto-regressive models like GPT2. Analyzed and overcame common issues like repetitive text generation, and unmeaningful word generation in NLG for Bangla.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Assistant
+    company: Qatar Computing Research Institute
+    company_url: 'https://www.hbku.edu.qa/en/qcri'
     company_logo: qcri_logo
     location: Remote
     date_start: '2021-09-01'
@@ -60,11 +60,22 @@ experience:
     description: |2-
       * Pretrained a HuBERT model on Bangla ASR dataset for joint task of speech and speaker recognition pipeline using SpeechBrain.
       * Assisted in enriching existing open source Bangla ASR datasets by adding more scripted audio and correcting existing annotation
-
+  
+  - title: Undergraduate Teacher Assistant
+    company: BRAC University
+    company_url: 'https://www.bracu.ac.bd/'
+    company_logo: brac_uni
+    location: Dhaka, Bangladesh
+    date_start: '2020-04-01'
+    date_end: '2022-04-31'
+    description: |2-
+      * Helped students with different coding assignments and helped teachers in checking scripts.
+      * Assisted students in conducting research in various fields and submitting papers to conferences.
+      * Assisted Teachers in lab classes and helped students with different course materials during consultation hour.
 
 design:
   columns: '1'
 
 advanced:
-  css_class: "education-section"
+  css_class: "experience-section"
 ---

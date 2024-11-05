@@ -35,3 +35,16 @@
     top: 300px; /* Center the title vertically */
     transform: translateY(-50%); /* Adjust for perfect centering */
 }
+
+.publications-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.publications-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -300px; /* Adjust this value to place the title on the left */
+    top: 300px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}

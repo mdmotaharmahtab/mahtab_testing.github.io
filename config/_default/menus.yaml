@@ -16,6 +16,9 @@ main:
   - name: Education
     url: /#education
     weight: 40
+  - name: Publications
+    url: /#publications
+    weight: 50
   # - name: Resumé
   #   url: about/
   #   weight: 20
