@@ -33,10 +33,12 @@ experience:
     date_end: ''
     description: |2-
       * State-of-the-art Bangla Rule Based Lemmatizer which proposes a   novel iterative suffix stripping approach based on the part-of-speech tag of a word.Shows superior performance than all previously published Bangla lemmatization methods on existing datasets. 
-      * Paper- [BanLemma: A Word Formation Dependent Rule Based
+      * Paper [BanLemma A Word Formation Dependent Rule Based
     Lemmatizer](https://aclanthology.org/2023.findings-emnlp.240)
-      * Code- [https://github.com/eblict-gigatech/BanLemma](https://github.com/eblict-gigatech/BanLemma)
-      * Supervisor- [Dr. Nabeel Mohammed](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) , [Dr. Ruhul Amin](https://www.fordham.edu/academics/research/faculty-research/research-consortium-on-disability/affiliates/ruhul-amin/)
+
+      Code [https://github.com/eblict-gigatech/BanLemma](https://github.com/eblict-gigatech/BanLemma)
+      
+      Supervisor [Dr. Nabeel Mohammed](http://ece.northsouth.edu/people/dr-nabeel-mohammed/), [Dr. Ruhul Amin](https://www.fordham.edu/academics/research/faculty-research/research-consortium-on-disability/affiliates/ruhul-amin/)
 
   - title: BanglaBait
     company: RANLP
