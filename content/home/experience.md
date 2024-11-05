@@ -27,7 +27,7 @@ experience:
   - title: Jr. ML Engineer
     company: Giga Tech Ltd.
     company_url: 'https://gigatechltd.com/'
-    company_logo:gigatech-logo
+    company_logo: gigatech-logo
     location: California
     date_start: '2021-01-01'
     date_end: ''
