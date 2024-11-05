@@ -45,7 +45,8 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Created new state-of-the-art systems for a plethora of Bangla NLP tasks e.g. Named Entity Recognition (NER), Parts of Speech (POS), Lemmatization, and Emotion recognition. Bangla Lemmatization and Emotion recognition systems are publicly available at [https://github.com/eblict-gigatech/BanLemma](https://github.com/eblict-gigatech/BanLemma) and [https://sentiment.bangla.gov.bd](https://sentiment.bangla.gov.bd) respectively.
+    
 
 design:
   columns: '1'
