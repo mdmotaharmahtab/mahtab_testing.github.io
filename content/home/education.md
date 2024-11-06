@@ -25,22 +25,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: BSc Computer Science & Engineering
-    company: BRAC University
+    company: BRAC University; CGPA 3.99
     company_url: 'https://www.bracu.ac.bd/'
     company_logo: brac_uni
     location: Dhaka, Bangladesh
     date_start: '2018-08-01'
     date_end: '2022-04-30'
-    CGPA: 3.99
-
+    
   - title: SSC
-    company: Notredame College
+    company: Notredame College; GPA 5.0
     company_url: 'https://ndc.edu.bd/'
     company_logo: notredame_logo
     location: California
     date_start: '2015-08-01'
     date_end: '2017-08-01'
-    GPA: 5.0
 
 design:
   columns: '1'

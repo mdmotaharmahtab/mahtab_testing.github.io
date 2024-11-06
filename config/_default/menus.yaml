@@ -19,6 +19,24 @@ main:
   - name: Publications
     url: /#publications
     weight: 50
+  - name: Projects
+    url: /#portfolio
+    weight: 60
+  - name: Skills
+    url: /#skills
+    weight: 70
+  - name: Accomplishments
+    url: /#accomplishments
+    weight: 80
+  - name: Certifications
+    url: /#certifications
+    weight: 90
+  - name: Contributions
+    url: /#open_source
+    weight: 100
+  - name: Blogs
+    url: /#blog
+    weight: 110
   # - name: Resumé
   #   url: about/
   #   weight: 20

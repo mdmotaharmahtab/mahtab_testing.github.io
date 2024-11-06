@@ -7,10 +7,12 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 80
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# title: 'Accomplish&shy;ments'
+title: "<div style='text-align: left;'>Accomplish<br>ments</div>"
+
 subtitle:
 
 # Date format
@@ -23,31 +25,33 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/1biSrV8Dq_12AqNBcF4IyC2u0Rf3a_FCv/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    date_start: '2019-11-29'
+    description: 'Achieved 1st position among 25 Universities and 123 teams.'
+    organization: BRAC University
+    organization_url: https://www.bracu.ac.bd/
+    title: BRAC University Inter University Programming Contest
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://drive.google.com/file/d/1MtDET4P-rMHtNICc_cj1sthjqtk8za4v/view?usp=sharing
+    date_end: '2024-04-01'
+    date_start: '2022-04-01'
+    description: 'Achieved 100% Merit Scholarship for 8 semesters.' 
+    organization: BRAC University
+    organization_url: https://www.bracu.ac.bd/
+    title: Merit Scholarship Award
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1qBxgWknilTuzBBcBwj0FRdi3GgITZJYD/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2020-06-01'
+    description: 'Achieved Deans Presitigious List Award for outstanding academic and co-curricular achievements.'
+    organization: BRAC University
+    organization_url: https://www.bracu.ac.bd/
+    title: 'Deans Presitigious List Award'
     url: ''
 
 design:
   columns: '1'
+advanced:
+  css_class: "accomplishments-section"
 ---

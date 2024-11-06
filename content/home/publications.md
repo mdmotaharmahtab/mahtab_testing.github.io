@@ -1,9 +1,9 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: publications
+widget: experience
 
-id: publications
+id: experience
 
 # This file represents a page section.
 headless: true
@@ -47,9 +47,9 @@ experience:
     date_end: ''
     description: |2-
         *  First Bangla Clickbait News Article Dataset containing 15,056 data instances. Investigated various semi-supervised learning methods and compared them with supervised learning methods to prove the former's superiority.
-        * Paper- [BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset](https://aclanthology.org/2023.ranlp-1.81/)
-        * Code- [https://github.com/mdmotaharmahtab/BanglaBait](https://github.com/mdmotaharmahtab/BanglaBait)
-        * Supervisor- [Dr. Farig Sadeque](https://www.bracu.ac.bd/about/people/farig-yousuf-sadeque)
+        * Paper [BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset](https://aclanthology.org/2023.ranlp-1.81/)
+        * Code [https://github.com/mdmotaharmahtab/BanglaBait](https://github.com/mdmotaharmahtab/BanglaBait)
+        * Supervisor [Dr. Farig Sadeque](https://www.bracu.ac.bd/about/people/farig-yousuf-sadeque)
 
   - title: GAN-BERT
     company: Springer
@@ -60,8 +60,8 @@ experience:
     date_end: ''
     description: |2-
         *  Trained state-of-the-art Transformer networks in adversarial fashion using Generative Adversarial Network (GAN) to achieve superior performance when labelled dataset size is too small.First Bangla Paper to investigate the application of GAN-BERT on Bangla text classification tasks.
-        * Paper- [A GAN-BERT Based Approach for Bengali Text Classification with a Few Labeled Examples](https://link.springer.com/chapter/10.1007/978-3-031-20859-1_3)
-        * Supervisor- [Mr. Annajiat Alim Rasel](https://www.bracu.ac.bd/about/people/mr-annajiat-alim-rasel)
+        * Paper [A GAN-BERT Based Approach for Bengali Text Classification with a Few Labeled Examples](https://link.springer.com/chapter/10.1007/978-3-031-20859-1_3)
+        * Supervisor [Mr. Annajiat Alim Rasel](https://www.bracu.ac.bd/about/people/mr-annajiat-alim-rasel)
 
 design:
   columns: '1'

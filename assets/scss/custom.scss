@@ -19,7 +19,7 @@
     position: absolute;
     transform: rotate(-90deg); /* Rotate the title to be vertical */
     left: -300px; /* Adjust this value to place the title on the left */
-    top: 300px; /* Center the title vertically */
+    top: 100px; /* Center the title vertically */
     transform: translateY(-50%); /* Adjust for perfect centering */
 }
 
@@ -32,7 +32,7 @@
     position: absolute;
     transform: rotate(-90deg); /* Rotate the title to be vertical */
     left: -300px; /* Adjust this value to place the title on the left */
-    top: 300px; /* Center the title vertically */
+    top: 100px; /* Center the title vertically */
     transform: translateY(-50%); /* Adjust for perfect centering */
 }
 
@@ -45,6 +45,84 @@
     position: absolute;
     transform: rotate(-90deg); /* Rotate the title to be vertical */
     left: -300px; /* Adjust this value to place the title on the left */
-    top: 300px; /* Center the title vertically */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.projects-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.projects-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -300px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.skills-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.skills-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -300px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.accomplishments-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.accomplishments-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -300px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.certifications-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.certifications-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -320px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.blog-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.blog-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -300px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+}
+
+.contributions-section {
+    position: relative; 
+}
+
+/* Target only the title within the education section */
+.contributions-section .section-heading h1 {
+    position: absolute;
+    transform: rotate(-90deg); /* Rotate the title to be vertical */
+    left: -350px; /* Adjust this value to place the title on the left */
+    top: 100px; /* Center the title vertically */
     transform: translateY(-50%); /* Adjust for perfect centering */
 }
